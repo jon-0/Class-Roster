@@ -38,9 +38,9 @@ const string studentData[] =
 
 You may not include third-party libraries. Your submission should include one zip file with all the necessary code files to compile, support, and run your application.
 
---
+--------
 Requirements
---
+--------
 
 A.  Modify the “studentData Table” to include your personal information as the last item.
 
